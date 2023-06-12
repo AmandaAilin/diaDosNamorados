@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
-
+/*@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');*/
 
 body {
     height: 100vh;
@@ -151,7 +150,7 @@ body {
     position: absolute;
     color: rgb(42, 29, 66);
     font-size:30px;
-    font-family: 'Pacifico', cursive;
+    font-family: sans-serif;
     line-height:1;
     text-align: center;
     width:380px;
@@ -163,7 +162,7 @@ body {
   }
   .hover {
     color: white;
-    font-family: 'Pacifico', cursive;
+    font-family:  sans-serif;
     text-align: center;
   }
   
