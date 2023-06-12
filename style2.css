@@ -6,7 +6,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ff758f;
+    background-color: rgb(42, 29, 66);
   }
   .valentines-day-card {
     position: relative;
@@ -45,7 +45,7 @@ body {
     width:100px;
     height:100px;
     border-radius:50%;
-    background-color: #fff0f3;
+    background-color: #faf0ff;
     z-index:5;
     top:210px;
     left:-20px;
@@ -149,7 +149,7 @@ body {
   }
   .text {
     position: absolute;
-    color: #800f2f;
+    color: rgb(42, 29, 66);
     font-size:30px;
     font-family: 'Pacifico', cursive;
     line-height:1;
@@ -157,7 +157,7 @@ body {
     width:380px;
     left:10px;
     z-index:3;
-    top:320px;
+    top:280px;
     animation: up 1s ease forwards;
     transition: .2s;
   }
@@ -172,7 +172,7 @@ body {
   }
   
   .text:hover:before {
-    content:"Nem um milhão de linhas de código seriam capazes de registrar o amor que sinto por você. TE AMO";
+    content:"01010100 01100101 00100000 01100001 01101101 01101111 ";
     font-size:25px;
   
   }
